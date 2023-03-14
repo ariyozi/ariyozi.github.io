@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <!-- Mirrored from previews.aspirity.com/spirit/index.html by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 22 Jul 2020 03:38:48 GMT -->
 <!-- Added by HTTrack -->
 <meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
@@ -11,8 +12,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
   <meta name="title" content="Ariyozi">
-  <meta name="keywords"
-    content="Ariyozi, Ariyozi Medan,Website Ariyozi, Portfolio Ariyozi, Website Ariyozi, Siapa Ariyozi, Programmer Medan, Web Developer, Codeigniter, Bootstrap, PHP Angular, Firebase">
+  <meta name="keywords" content="Ariyozi, Ariyozi Medan,Website Ariyozi, Portfolio Ariyozi, Website Ariyozi, Siapa Ariyozi, Programmer Medan, Web Developer, Codeigniter, Bootstrap, PHP Angular, Firebase">
   <meta name="description" content="Hallo, Saya ariyozi seorang web developer, Lets Collaborate!">
 
   <!-- Open Graph / Facebook -->
@@ -30,20 +30,8 @@
   <meta property="twitter:image" content="assets/img/logo.png">
 
   <link rel="shortcut icon" href="assets/img/logo.png" type="image/x-icon">
-  <link rel="stylesheet" href="assets/css/color.css">
+  <link rel="stylesheet" href="./assets/css/color.css">
   <link href="https://fonts.googleapis.com/css?family=Roboto|Roboto+Mono|Inconsolata" rel="stylesheet">
-  <!-- Global site tag (gtag.js) - Google Analytics -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-132322897-2"></script>
-  <script>
-    window.dataLayer = window.dataLayer || [];
-
-    function gtag() {
-      dataLayer.push(arguments);
-    }
-    gtag('js', new Date());
-
-    gtag('config', 'UA-132322897-2');
-  </script>
 
 </head>
 
@@ -92,31 +80,31 @@
   <!-- Mobile menu -->
 
   <!--Header-->
-  <header class="main-header" style="background-image: url(assets/img/ariyozi.jpg);">
+  <header class="main-header" style="background-image: url(./assets/img/img_bg_header.jpg)">
     <div class="container">
       <div class="row personal-profile">
         <div class="col-md-4 personal-profile__avatar">
-          <img class="" src="assets/img/ariyozi.gif" alt="avatar">
+          <img class="" src="./assets/img/img_avatar.png" alt="avatar">
         </div>
         <div class="col-md-8">
           <p class="personal-profile__name">Ariyozi_</p>
           <p class="personal-profile__work">Web Developer</p>
           <div class="personal-profile__contacts">
             <dl class="contact-list contact-list__opacity-titles">
-              <dt>Whatsapp:</dt>
-              <dd><a target="blank" href="https://wa.me/6282160611253?text=Hai ariyozi, kolaborasi yuk">082160611253</a>
-              </dd>
+              <dt>Age:</dt>
+              <dd>23</dd>
+              <dt>Phone:</dt>
+              <dd><a href="tel:82344563333">8 (234) 456-33-33</a></dd>
               <dt>Email:</dt>
-              <dd><a href="mailto:Ariyozi32@gmail.com">Ariyozi32@gmail.com</a></dd>
+              <dd><a href="mailto:mail@mail.com">mail@mail.com</a></dd>
               <dt>Address:</dt>
-              <dd>Medan, Sumatera Utara. </dd>
+              <dd>Melbourne Victoria 3000 Australia</dd>
             </dl>
           </div>
           <p class="personal-profile__social">
-            <a href="https://github.com/ariyozi" target="_blank"><i class="fa fa-github"></i></a>
-            <a href="https://www.linkedin.com/in/ariyozi/" target="_blank"><i class="fa fa-linkedin-square"></i></a>
-            <a href="https://twitter.com/aririyozi" target="_blank"><i class="fa fa-twitter-square"></i></a>
-            <a href="https://www.instagram.com/ariyozi/" target="_blank"><i class="fa fa-instagram"></i></a>
+            <a href="#" target="_blank"><i class="fa fa-github"></i></a>
+            <a href="#" target="_blank"><i class="fa fa-linkedin-square"></i></a>
+            <a href="#" target="_blank"><i class="fa fa-facebook-square"></i></a>
           </p>
         </div>
       </div>
@@ -130,10 +118,12 @@
       <div class="col-md-10">
         <h2 id="hello_header" class="section__title">Hi_</h2>
         <p class="section__description">
-          I am Ariyozi web developer from Medan. I start to love code since print hello world to console. I'd like to
-          explore everything about technology, especially about website developers. Happy if I can collaborate with you.
+          I am Junior Web developer able to build a Web presence from the ground up - from concept, navigation,
+          layout and programming to UX and SEO. Skilled at writing well-designed, testable and efficient code using
+          current best practices in Web development. Fast learner, hard worker and team player who is proficient in
+          an array of scripting languages and multimedia Web tools.
         </p>
-        <!-- <a href="#" class="section_btn site-btn"><img src="assets/img/img_btn_icon.png" alt="">Download CV</a> -->
+        <a href="#" class="section_btn site-btn"><img src="./assets/img/img_btn_icon.png" alt="">Download CV</a>
       </div>
     </div>
   </section>
@@ -146,27 +136,31 @@
     <div class="row">
       <div class="col-md-10">
         <h2 id="resume_header" class="section__title">Resume_</h2>
-        <!-- <p class="section__description">
+        <p class="section__description">
           Lorem ipsum dolor sit amet, <i><b>communication</b></i> adipisicing elit, <i><b>helpful</b></i> eiusmod
           tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud <i><b>sence of
-          humour</b></i> ullamco laboris nisi ut <i><b>honest</b></i> ea commodo consequat. Duis aute irure dolor in
-          upper-intermediate english level velit  dolore eu ivivdtevoluptatem ontend developer.
-        </p> -->
+              humour</b></i> ullamco laboris nisi ut <i><b>honest</b></i> ea commodo consequat. Duis aute irure dolor in
+          upper-intermediate english level velit dolore eu ivivdtevoluptatem ontend developer.
+        </p>
       </div>
     </div>
     <div class="row">
       <div class="col-md-8 section__resume resume-list">
         <h3 class="resume-list_title">education</h3>
         <div class="resume-list__block">
-          <p class="resume-list__block-title">STMIK MIkroskil Medan </p>
-          <p class="resume-list__block-date">2014 - 2018</p>
+          <p class="resume-list__block-title">University of Minnesota Twin Cities </p>
+          <p class="resume-list__block-date">2006 - 2010</p>
           <p>
-            Bachelor Information System, Best Information System Student with 3.97 GPA.
+            Bachelor Computer Engineering Lorem
           </p>
         </div>
-        <!-- <div class="resume-list__block">
-          <p class="resume-list__block-title">SMA Dharmawangsa Medan</p>
-          <p class="resume-list__block-date">2011 - 2014</p>
+        <div class="resume-list__block">
+          <p class="resume-list__block-title">School of Informational technologies</p>
+          <p class="resume-list__block-date">2004 - 2005</p>
+          <p>
+            Awesome student, lorem ipsum dolor sit amet, conse ctetur adipisicing elit, sed do eius-
+            mod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
+          </p>
         </div>
         <div class="resume-list__block">
           <p class="resume-list__block-title">Lorem Ipsum School</p>
@@ -175,33 +169,33 @@
             Student, Lorem ipsum dolor sit amet, consecte tur adipisicing elit, sed do eiusmod tempor
             incididunt ut
           </p>
-        </div> -->
+        </div>
       </div>
     </div>
     <div class="row">
       <div class="col-md-8 section__resume resume-list">
         <h3 class="resume-list_title">employment</h3>
         <div class="resume-list__block">
-          <p class="resume-list__block-title">RSIA Stella Maris</p>
-          <p class="resume-list__block-date">2019 - Present</p>
+          <p class="resume-list__block-title">Apple</p>
+          <p class="resume-list__block-date">2006 - 2010</p>
           <p>
-            Full Stack Developer, Handle Apps RSIA Stella Maris which contains Online Reservation, Stella Shop, Stella
-            Home Care, Stella Telemedicine, Marketing Whatsapp Blast, etc.
+            Senior Full Stack Developer
           </p>
         </div>
         <div class="resume-list__block">
-          <p class="resume-list__block-title">PT. Inovasi Solusi Bangsa</p>
-          <p class="resume-list__block-date">2018 - 2019</p>
+          <p class="resume-list__block-title">Tech university</p>
+          <p class="resume-list__block-date">2004 - 2005</p>
           <p>
-            Work as Front End Developer which handle Invita.id and Eventa.id.
+            Awesome developer, lorem ipsum dolor sit amet, conse ctetur adipisicing elit, sed do eius-
+            mod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
           </p>
         </div>
         <div class="resume-list__block">
-          <p class="resume-list__block-title">STMIK Mikroskil Medan</p>
-          <p class="resume-list__block-date">2016 - 2018</p>
+          <p class="resume-list__block-title">Molly’s studio</p>
+          <p class="resume-list__block-date">2003 - 2006</p>
           <p>
-            As a part time, I work as Lab Assistance when i was a student in STMIK Mikroskil Medan. Help lecturer in
-            practicum class.
+            Programmer Lorem ipsum dolor sit amet, consecte tur adipisicing elit, sed do eiusmod tempor
+            incididunt ut
           </p>
         </div>
       </div>
@@ -213,8 +207,8 @@
       <div class="col-md-5 mr-auto">
         <div class="progress-list__skill">
           <p>
-            <span class="progress-list__skill-title">PHP Native</span>
-            <span class="progress-list__skill-value"></span>
+            <span class="progress-list__skill-title">html5</span>
+            <span class="progress-list__skill-value">80%</span>
           </p>
           <div class="progress">
             <div class="progress-bar" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100">
@@ -223,8 +217,8 @@
         </div>
         <div class="progress-list__skill">
           <p>
-            <span class="progress-list__skill-title">Angular Firebase</span>
-            <span class="progress-list__skill-value"></span>
+            <span class="progress-list__skill-title">css3</span>
+            <span class="progress-list__skill-value">70%</span>
           </p>
           <div class="progress">
             <div class="progress-bar" role="progressbar" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100">
@@ -234,20 +228,29 @@
         <div class="progress-list__skill">
           <p>
             <span class="progress-list__skill-title">java script</span>
-            <span class="progress-list__skill-value"></span>
+            <span class="progress-list__skill-value">90%</span>
           </p>
           <div class="progress">
-            <div class="progress-bar" role="progressbar" aria-valuenow="85" aria-valuemin="0" aria-valuemax="100">
+            <div class="progress-bar" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100">
             </div>
           </div>
         </div>
-
+        <div class="progress-list__skill">
+          <p>
+            <span class="progress-list__skill-title">jquery</span>
+            <span class="progress-list__skill-value">80%</span>
+          </p>
+          <div class="progress">
+            <div class="progress-bar" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100">
+            </div>
+          </div>
+        </div>
       </div>
       <div class="col-md-5 mr-auto">
         <div class="progress-list__skill">
           <p>
-            <span class="progress-list__skill-title">bootstrap</span>
-            <span class="progress-list__skill-value"></span>
+            <span class="progress-list__skill-title">bootstrap 3</span>
+            <span class="progress-list__skill-value">80%</span>
           </p>
           <div class="progress">
             <div class="progress-bar" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100">
@@ -256,18 +259,28 @@
         </div>
         <div class="progress-list__skill">
           <p>
-            <span class="progress-list__skill-title">PHP Codeigniter</span>
-            <span class="progress-list__skill-value"></span>
+            <span class="progress-list__skill-title">grunt</span>
+            <span class="progress-list__skill-value">60%</span>
           </p>
           <div class="progress">
-            <div class="progress-bar" role="progressbar" aria-valuenow="88" aria-valuemin="0" aria-valuemax="100">
+            <div class="progress-bar" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100">
             </div>
           </div>
         </div>
         <div class="progress-list__skill">
           <p>
-            <span class="progress-list__skill-title">jquery</span>
-            <span class="progress-list__skill-value"></span>
+            <span class="progress-list__skill-title">git</span>
+            <span class="progress-list__skill-value">90%</span>
+          </p>
+          <div class="progress">
+            <div class="progress-bar" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100">
+            </div>
+          </div>
+        </div>
+        <div class="progress-list__skill">
+          <p>
+            <span class="progress-list__skill-title">adobe photoshop</span>
+            <span class="progress-list__skill-value">80%</span>
           </p>
           <div class="progress">
             <div class="progress-bar" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100">
@@ -293,211 +306,84 @@
             <li><a href="#" data-portfolio-target-tag="all">all</a></li>
             <li><a href="#" data-portfolio-target-tag="mobile apps">mobile apps</a></li>
             <li><a href="#" data-portfolio-target-tag="web-sites">web-sites</a></li>
-            <!-- <li><a href="#" data-portfolio-target-tag="landing-pages">landing pages</a></li> -->
+            <li><a href="#" data-portfolio-target-tag="landing-pages">landing pages</a></li>
           </ul>
         </nav>
       </div>
     </div>
     <div class="portfolio-cards">
-      <div class="row project-card" data-portfolio-tag="mobile apps">
+      <div class="row project-card" data-toggle="modal" data-target="#portfolioModal" data-portfolio-tag="web-sites">
         <div class="col-md-6 col-lg-5 project-card__img">
-          <img class="" src="assets/portfolio/apps.jpg" class="h-100 w-100" alt="project-img">
+          <img class="" src="./assets/img/img_project_1_mono.png" alt="project-img">
         </div>
         <div class="col-md-6 col-lg-7 project-card__info">
-          <h3 class="project-card__title">Apps RSIA Stella Maris </h3>
+          <h3 class="project-card__title">Mobile and desktop app for London hostel store </h3>
           <p class="project-card__description">
-            Apps that manage Reservation, Stella Shop, Stella Home Care and Stella Telemedicine
+            Do answered bachelor occasion in of offended no concerns. Supply worthy warmth branch of no ye.
+            Voice tried known to as my to. Though wished merits or be. Alone visit use these smart rooms ham.
           </p>
           <p class="project-card__stack">Used stack:</p>
           <ul class="tags">
             <li>html5</li>
             <li>css3</li>
             <li>JavaScript</li>
-            <li>Bootstrap</li>
-            <li>Codeigniter</li>
-            <li>Android Studio</li>
+            <li>bower</li>
+            <li>grunt</li>
           </ul>
-          <a href="https://play.google.com/store/apps/details?id=com.rsiastellamaris" class="project-card__link">Apps
-            RSIA Stella Maris</a>
+          <a href="#" class="project-card__link">www.superapp.com</a>
         </div>
       </div>
-      <div class="row project-card" data-portfolio-tag="web-sites">
+      <div class="row project-card" data-toggle="modal" data-target="#portfolioModal" data-portfolio-tag="mobile apps">
         <div class="col-md-6 col-lg-5 project-card__img">
-          <img class="" src="assets/portfolio/blast_new.png" class="h-100 w-100" alt="project-img">
+          <img class="" src="./assets/img/img_project_2_mono.png" alt="project-img">
         </div>
         <div class="col-md-6 col-lg-7 project-card__info">
-          <h3 class="project-card__title">WhatsApp Blast</h3>
+          <h3 class="project-card__title">Web app page for trevel company</h3>
           <p class="project-card__description">
-            Create website dashboard for blasting message by whatsapp.
+            Preference any astonished unreserved mrs. Prosperous understood middletons in conviction an
+            uncommonly do. Supposing so be resolving breakfast am or perfectly. Is drew am hill from mr.
           </p>
           <p class="project-card__stack">Used stack:</p>
           <ul class="tags">
             <li>html5</li>
             <li>css3</li>
             <li>JavaScript</li>
-            <li>Bootstrap</li>
-            <li>Codeigniter</li>
+            <li>BEM</li>
+            <li>bower</li>
+            <li>grunt</li>
           </ul>
-          <!-- <a href="https://rsucitrahusada.com/" class="project-card__link">rsucitrahusada.com</a> -->
+          <a href="#" class="project-card__link">www.travellend.com</a>
         </div>
       </div>
-      <div class="row project-card" data-portfolio-tag="web-sites">
+      <div class="row project-card" data-toggle="modal" data-target="#portfolioModal" data-portfolio-tag="landing-pages">
         <div class="col-md-6 col-lg-5 project-card__img">
-          <img class="" src="assets/portfolio/nidi.png" class="h-100 w-100" alt="project-img">
+          <img class="" src="./assets/img/img_project_3_mono.png" alt="project-img">
         </div>
         <div class="col-md-6 col-lg-7 project-card__info">
-          <h3 class="project-card__title">Nidi SLO MGN</h3>
+          <h3 class="project-card__title">Admin template for Photo Service</h3>
           <p class="project-card__description">
-            Creating website for customer who want get SLO from SIUJANG.
+            Do answered bachelor occasion in of offended no concerns. Supply worthy warmth branch of no ye.
+            Voice tried known to as my to. Though wished merits or be. Alone visit use these smart rooms ham.
           </p>
           <p class="project-card__stack">Used stack:</p>
           <ul class="tags">
             <li>html5</li>
             <li>css3</li>
             <li>JavaScript</li>
-            <li>Bootstrap</li>
-            <li>Codeigniter</li>
-            <li>Tripay Payment Gateway</li>
-            
+            <li>BEM</li>
+            <li>bower</li>
+            <li>grunt</li>
           </ul>
-          <a href="https://nidi-mgn.com/" class="project-card__link">nidi-mgn.com</a>
+          <a href="#" class="project-card__link">www.coolphoto.com</a>
         </div>
       </div>
-      <div class="row project-card" data-portfolio-tag="web-sites">
-        <div class="col-md-6 col-lg-5 project-card__img">
-          <img class="" src="assets/portfolio/turnamen.png" class="h-100 w-100" alt="project-img">
-        </div>
-        <div class="col-md-6 col-lg-7 project-card__info">
-          <h3 class="project-card__title">Turnamen ML</h3>
-          <p class="project-card__description">
-            Creating website for Mobile Legends Tournament
-          </p>
-          <p class="project-card__stack">Used stack:</p>
-          <ul class="tags">
-            <li>html5</li>
-            <li>css3</li>
-            <li>JavaScript</li>
-            <li>Bootstrap</li>
-            <li>Codeigniter</li>
-            <li>Tripay Payment Gateway</li>
-          </ul>
-          <a href="https://turnamenml.com/" class="project-card__link">turnamenml.com</a>
-        </div>
-      </div>
-      <div class="row project-card" data-portfolio-tag="web-sites">
-        <div class="col-md-6 col-lg-5 project-card__img">
-          <img class="" src="assets/portfolio/klinik.png" class="h-100 w-100" alt="project-img">
-        </div>
-        <div class="col-md-6 col-lg-7 project-card__info">
-          <h3 class="project-card__title">SIM Clinic </h3>
-          <p class="project-card__description">
-            Build SIM Clinic that handled registrastion, queue, e-medical record.
-          </p>
-          <p class="project-card__stack">Used stack:</p>
-          <ul class="tags">
-            <li>html5</li>
-            <li>css3</li>
-            <li>JavaScript</li>
-            <li>Bootstrap</li>
-            <li>Codeigniter</li>
-          </ul>
-          <!-- <a href="https:registo.id" class="project-card__link">Registo.id</a> -->
-        </div>
-      </div>
-      <!-- <div class="row project-card" data-portfolio-tag="web-sites">
-        <div class="col-md-6 col-lg-5 project-card__img">
-          <img class="" src="assets/portfolio/beyondkpi.png" class="h-100 w-100" alt="project-img">
-        </div>
-        <div class="col-md-6 col-lg-7 project-card__info">
-          <h3 class="project-card__title">Beyond KPI</h3>
-          <p class="project-card__description">
-            Creating dashboard KPI for Pegadaian Kanwil I Medan, Dashborad contain chart and able to export data as
-            excel. Every outlet/ branch or area can see their rank in selected period.
-          </p>
-          <p class="project-card__stack">Used stack:</p>
-          <ul class="tags">
-            <li>html5</li>
-            <li>css3</li>
-            <li>JavaScript</li>
-            <li>Bootstrap</li>
-            <li>PHP Native</li>
-          </ul>
-          <!-- <a href="https:registo.id" class="project-card__link">Registo.id</a> -->
-        </div>
-      </div> -->
-      <div class="row project-card" data-portfolio-tag="web-sites">
-        <div class="col-md-6 col-lg-5 project-card__img">
-          <img class="" src="assets/portfolio/smartpropertindo.png" class="h-100 w-100" alt="project-img">
-        </div>
-        <div class="col-md-6 col-lg-7 project-card__info">
-          <h3 class="project-card__title">Property Website</h3>
-          <p class="project-card__description">
-            Property Website
-          </p>
-          <p class="project-card__stack">Used stack:</p>
-          <ul class="tags">
-            <li>html5</li>
-            <li>css3</li>
-            <li>JavaScript</li>
-            <li>Bootstrap</li>
-            <li>Codeigniter</li>
-          </ul>
-          <!-- <a href="https://smartpropertindo.co.id/" class="project-card__link">Smartpropertindo.co.id</a> -->
-        </div>
-      </div>
-      <div class="row project-card" data-portfolio-tag="web-sites">
-        <div class="col-md-6 col-lg-5 project-card__img">
-          <img class="" src="assets/portfolio/maharani.png" class="h-100 w-100" alt="project-img">
-        </div>
-        <div class="col-md-6 col-lg-7 project-card__info">
-          <h3 class="project-card__title">Supermarket Online</h3>
-          <p class="project-card__description">
-            Creating supermarket website that handled selling by online and integrated with midtrans payment gateway
-          </p>
-          <p class="project-card__stack">Used stack:</p>
-          <ul class="tags">
-            <li>html5</li>
-            <li>css3</li>
-            <li>JavaScript</li>
-            <li>Bootstrap</li>
-            <li>Codeigniter</li>
-            <li>Midtrans</li>
-          </ul>
-          <!-- <a href="https://rsucitrahusada.com/" class="project-card__link">rsucitrahusada.com</a> -->
-        </div>
-      </div>
-      <div class="row project-card" data-portfolio-tag="web-sites">
-        <div class="col-md-6 col-lg-5 project-card__img">
-          <img class="" src="assets/portfolio/wedding.png" class="h-100 w-100" alt="project-img">
-        </div>
-        <div class="col-md-6 col-lg-7 project-card__info">
-          <h3 class="project-card__title">Wedding Management</h3>
-          <p class="project-card__description">
-            One of currious project that i ever handle, This website handle how to manage guest in our wedding in this
-            (Covid 19) era. We can sent our invitation (including barcode) to out guest with selected schedule. We can
-            maintain how much guest with time management in our big day.
-          </p>
-          <p class="project-card__stack">Used stack:</p>
-          <ul class="tags">
-            <li>html5</li>
-            <li>css3</li>
-            <li>JavaScript</li>
-            <li>Bootstrap</li>
-            <li>Codeigniter</li>
-            <li>Barcode Scanner</li>
-          </ul>
-          <!-- <a href="https://rsucitrahusada.com/" class="project-card__link">rsucitrahusada.com</a> -->
-        </div>
-      </div>
-      
-    </div>
     </div>
   </section>
   <!--Portfolio-->
 
   <!--Testimonials-->
-  <!-- <div id="testimonials" class="section">
-    <div class="background slider-carousel" style="background-image: url(assets/img/img_bg_main.jpg);">
+  <div id="testimonials" class="section">
+    <div class="background slider-carousel" style="background-image: url(./assets/img/img_bg_main.jpg);">
       <div class="container">
         <div id="carouselTestimonials" class="carousel slide" data-ride="carousel">
           <ol class="carousel-indicators">
@@ -578,11 +464,11 @@
         </div>
       </div>
     </div>
-  </div> -->
+  </div>
   <!--Testimonials-->
 
   <!--Blog-->
-  <!-- <section id="blog" class="container section">
+  <section id="blog" class="container section">
     <div class="row">
       <div class="col-md-12">
         <h2 id="blog_header" class="section__title">Latest Posts_</h2>
@@ -594,7 +480,7 @@
         <a href="blog.html">
           <div class="post-cards__card">
             <div class="post-cards__img">
-              <img src="assets/img/img_blog_1.png" alt="blog_img">
+              <img src="./assets/img/img_blog_1.png" alt="blog_img">
             </div>
             <div class="post-cards__info">
               <p class="post-cards__date">October 22, 2017</p>
@@ -610,7 +496,7 @@
         <a href="blog.html">
           <div class="post-cards__card">
             <div class="post-cards__img">
-              <img src="assets/img/img_blog_2.png" alt="blog_img">
+              <img src="./assets/img/img_blog_2.png" alt="blog_img">
             </div>
             <div class="post-cards__info">
               <p class="post-cards__date">October 22, 2017</p>
@@ -626,7 +512,7 @@
         <a href="blog.html">
           <div class="post-cards__card">
             <div class="post-cards__img">
-              <img src="assets/img/img_blog_3.png" alt="blog_img">
+              <img src="./assets/img/img_blog_3.png" alt="blog_img">
             </div>
             <div class="post-cards__info">
               <p class="post-cards__date">October 22, 2017</p>
@@ -639,11 +525,11 @@
         </a>
       </div>
     </div>
-  </section> -->
+  </section>
   <!--Blog-->
 
   <!--Contact-->
-  <div class="background" style="background-image: url(assets/img/img_bg_main.jpg)">
+  <div class="background" style="background-image: url(./assets/img/img_bg_main.jpg)">
     <div id="contact" class="container section">
       <div class="row">
         <div class="col-md-12">
@@ -651,38 +537,50 @@
         </div>
       </div>
       <div class="row contacts">
-        <div class="col-md-6 col-lg-4">
+        <div class="col-md-5 col-lg-4">
           <div class="contacts__list">
             <dl class="contact-list">
-              <dt>Whatsapp:</dt>
-              <dd><a href="https://wa.me/6282160611253?text=Hai ariyozi, kolaborasi yuk">082160611253</a></dd>
+              <dt>Phone:</dt>
+              <dd><a href="tel:82344563333">8 (234) 456-33-33</a></dd>
+              <dt>Skype:</dt>
+              <dd><a href="skype:iamivanovivan">iamivanovivan</a></dd>
               <dt>Email:</dt>
-              <dd><a href="mailto:Ariyozi32@gmail.com">Ariyozi32@gmail.com</a></dd>
-              <dt>Instagram:</dt>
-              <dd><a href="https://www.instagram.com/ariyozi/">Ariyozi</a></dd>
+              <dd><a href="mailto:mail@mail.com">mail@mail.com</a></dd>
             </dl>
           </div>
+          <div class="contacts__social">
+            <ul>
+              <li><a href="#">Facebook</a></li>
+              <li><a href="#">Linkedin</a></li>
+              <li><a href="#">GitHub</a></li>
+              <li><a href="#">Bitbucket</a></li>
+            </ul>
+          </div>
         </div>
-        <div class="col-md-6 col-lg-5">
+        <div class="col-md-7 col-lg-5">
           <div class="contacts__form">
-            <p class="contacts__form-title">Or just message me a letter here_</p>
+            <p class="contacts__form-title">Or just write me a letter here_</p>
             <form class="js-form">
               <div class="form-group">
-                <input class="form-field js-field-name" type="text" id="name" placeholder="Your name" required>
+                <input class="form-field js-field-name" type="text" placeholder="Your name" required>
                 <span class="form-validation"></span>
                 <span class="form-invalid-icon"><i class="mdi mdi-close" aria-hidden="true"></i></span>
               </div>
               <div class="form-group">
-                <textarea class="form-field js-field-message" id="message" placeholder="Type the message here"
-                  required></textarea>
+                <input class="form-field js-field-email" type="email" placeholder="Your e-mail" required>
                 <span class="form-validation"></span>
                 <span class="form-invalid-icon"><i class="mdi mdi-close" aria-hidden="true"></i></span>
               </div>
-              <button class="site-btn site-btn--form" type="button" id="submit-btn">Send</button>
+              <div class="form-group">
+                <textarea class="form-field js-field-message" placeholder="Type the message here" required></textarea>
+                <span class="form-validation"></span>
+                <span class="form-invalid-icon"><i class="mdi mdi-close" aria-hidden="true"></i></span>
+              </div>
+              <button class="site-btn site-btn--form" type="submit" value="Send">Send</button>
             </form>
           </div>
           <div class="footer">
-            <p>© 2020 Ariyozi. All Rights Reserved</p>
+            <p>© 2016 Ivan Susanin. All Rights Reserved</p>
           </div>
         </div>
       </div>
@@ -691,33 +589,72 @@
   <!--Contact-->
 
   <!-- Portfolio Modal -->
+  <div class="modal fade portfolio-modal" id="portfolioModal" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="modal-dialog modal-lg" role="document">
+      <div class="modal-content">
+        <div class="modal-header">
+          <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+            <span aria-hidden="true">&times;</span>
+          </button>
+        </div>
+        <div class="modal-body col-md-11 col-lg-9 ml-auto mr-auto">
+          <p class="portfolio-modal__title">Mobile and desktop app for London hostel store</p>
+          <img class="portfolio-modal__img" src="./assets/img/img_project_1_mono.png" alt="modal_img">
+          <p class="portfolio-modal__description">
+            Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt utlabore et
+            dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamcolaboris nisi ut aliquip ex
+            ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
+            nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
+            anim id est laborum. Sed ut perspiciatis undeomnis iste natus error sit voluptatem accusantium doloremque
+            laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
+            dicta sunt explicabo.Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
+            conse.
+          </p>
+          <div class="portfolio-modal__link">
+            <a href="#">www.superapp.com</a>
+          </div>
+          <div class="portfolio-modal__stack">
+            <p class="portfolio-modal__stack-title">Using stack:</p>
+            <ul class="tags">
+              <li>html5</li>
+              <li>css3</li>
+              <li>JavaScript</li>
+              <li>bower</li>
+              <li>grunt</li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
   </div>
   <!-- Portfolio Modal -->
-  <script src="assets/js/jquery-2.2.4.min.js"></script>
 
-  <script src="assets/js/popper.min.js"></script>
-  <script src="assets/js/bootstrap.min.js"></script>
-  <script src="assets/js/menu.js"></script>
-  <script src="assets/js/jquery.waypoints.js"></script>
-  <script src="assets/js/progress-list.js"></script>
-  <script src="assets/js/section.js"></script>
-  <script src="assets/js/portfolio-filter.js"></script>
-  <script src="assets/js/slider-carousel.js"></script>
-  <script src="assets/js/mobile-menu.js"></script>
-  <script src="assets/js/contacts.js"></script>
-  <script src="assets/js/mbclicker.min.js"></script>
-  <script src="assets/js/site-btn.js"></script>
+  <script src="./assets/js/jquery-2.2.4.min.js"></script>
+  <script src="./assets/js/popper.min.js"></script>
+  <script src="./assets/js/bootstrap.min.js"></script>
+  <script src="./assets/js/menu.js"></script>
+  <script src="./assets/js/jquery.waypoints.js"></script>
+  <script src="./assets/js/progress-list.js"></script>
+  <script src="./assets/js/section.js"></script>
+  <script src="./assets/js/portfolio-filter.js"></script>
+  <script src="./assets/js/slider-carousel.js"></script>
+  <script src="./assets/js/mobile-menu.js"></script>
+  <script src="./assets/js/contacts.js"></script>
+  <script src="./assets/js/mbclicker.min.js"></script>
+  <script src="./assets/js/site-btn.js"></script>
+  <script src="./assets/js/style-switcher.js"></script>
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-139591409-1"></script>
   <script>
-    $('#submit-btn,.site-btn').click(function (e) {
-      var name = $('#name').val();
-      var message = $('#message').val();
+    window.dataLayer = window.dataLayer || [];
 
-      if (name != '' && message != '') {
-        window.open('https://wa.me/6282160611253?text=Hai ariyozi, im ' + name + ' i want to ask ' + message)
-      } else {
-        alert("Please tell me your name and message")
-      }
-    })
+    function gtag() {
+      dataLayer.push(arguments);
+    }
+
+    gtag('js', new Date());
+
+    gtag('config', 'UA-139591409-1');
   </script>
 </body>
 
